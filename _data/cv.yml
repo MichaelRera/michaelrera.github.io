@@ -14,19 +14,19 @@
     - title: Group leader team UTELife (Understanding The End-of-Life)
       institution: Centre de Recherche Interdisciplinaire (Université Paris Cité / INSERM)
       year: 2020 - 
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
     - title: Group leader team UTELife (Understanding The End-of-Life)
       institution: Institut de Biologie Paris Seine (Sorbonne Université / INSERM / CNRS)
       year: 2018 - 2020
-      description:
-        - Description 1.
-        - Description 2.
+ #     description:
+ #       - Description 1.
+ #       - Description 2.
 
     - title: Permanent CNRS Researcher
       institution: Department of Adaptive and Functional Biology (Université Paris Cité / CNRS)
@@ -48,12 +48,12 @@
       institution: Université Paris Cité, Paris, France
       year: 2022
       description:
-        title: Two phases of ageing.
+        <u>title:</u> Two phases of ageing.
     - title: PhD
       institution: Université Paris 7, Paris, France
       year: 2010
       description:
-        - title: Role of mitochondrialElectron Transfer Chain in ageing.
+        <u>title:</u> Role of mitochondrialElectron Transfer Chain in ageing.
           contents:
             - Mentor : Hervé Tricoire, PhD.
     - title: Federal teaching diploma
