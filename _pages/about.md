@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>office number 4.18</p>
-    <p>8bis Rue Charles V</p>
-    <p>75004, Paris</p>
+    <p align="right">office number 4.18</p>
+    <p align="right">8bis Rue Charles V</p>
+    <p align="right">75004, Paris</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
