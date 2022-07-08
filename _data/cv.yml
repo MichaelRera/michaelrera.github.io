@@ -50,6 +50,26 @@
     - year: 2017 - 2020
       items: 
         - ATIP/Avenir grant
+        
+- title: PhD supervision
+  type: time_table
+  contents:
+    - year: 2022 - 2025
+      items:
+        - co-supervision (principal supervisor) of PhD candidate <a href="https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid</a> with <a href="https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/1900-Cl%C3%A9ment-Carr%C3%A9">Dr Clément Carré </a> (Assistant Prof, Sorbonne Université)
+        - Assessing the role of transposable elements and small RNAs in the end-of-life Smurf phenotype
+    - year: 2021 - 2025
+      items: 
+        - ANR JCJC ADAGIO   
+    - year: 2020 - 2025
+      items: 
+        - CRI Core fellow 5-year group leader grant (Fondation Bettencourt-Schueller) 
+    - year: 2018 - 2021
+      items:
+        - Interdisciplinary PhD grant, Sorbonne Université
+    - year: 2017 - 2020
+      items: 
+        - ATIP/Avenir grant  
 
 - title: Education
   type: time_table
