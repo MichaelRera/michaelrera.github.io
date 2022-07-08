@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://people2.cri-paris.org/people/7ea72ecd-84f5-4318-8666-ffbc993a92ea'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://people2.cri-paris.org/people/7ea72ecd-84f5-4318-8666-ffbc993a92ea'>Affiliations</a>
 
 profile:
   align: right
