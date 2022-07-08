@@ -1,7 +1,8 @@
 ---
 layout: post
+title: CNRS La preuve par l'image 2022
 date: 2022-06-20 07:59:00-0400
-inline: true
+inline: false
 ---
 
 Our - hopefully someday - cover picture has been select has been selected by the <a href="https://www.concours-preuve-image.fr/">CNRS La preuve par l'image 2022</a> jury
