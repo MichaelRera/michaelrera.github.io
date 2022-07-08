@@ -28,6 +28,19 @@
  #       - Description 1.
  #       - Description 2.
 
+- title: Grants
+  type: time_table
+  contents:
+    - year: 2021 - 2025
+      items: 
+        - ANR JCJC ADAGIO   
+    - year: 2020 - 2025
+      items: 
+        - CRI Core fellow 5-year group leader grant (Fondation Bettencourt-Schueller) 
+    - year: 2017 - 2020
+      items: 
+        - ATIP/Avenir grant
+
     - title: Permanent CNRS Researcher
       institution: Department of Adaptive and Functional Biology (Université Paris Cité / CNRS)
       year: 2013 - 2017
@@ -48,12 +61,12 @@
       institution: Université Paris Cité, Paris, France
       year: 2022
       description:
-        <u>title:</u> Two phases of ageing.
+        - <u>title:</u> Two phases of ageing.
     - title: PhD
       institution: Université Paris 7, Paris, France
       year: 2010
       description:
-        <u>title:</u> Role of mitochondrialElectron Transfer Chain in ageing.
+        - <u>title:</u> Role of mitochondrialElectron Transfer Chain in ageing.
           contents:
             - Mentor : Hervé Tricoire, PhD.
     - title: Federal teaching diploma
@@ -69,19 +82,6 @@
 #    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Grants
-  type: time_table
-  contents:
-    - year: 2021 - 2025
-      items: 
-        - ANR JCJC ADAGIO   
-    - year: 2020 - 2025
-      items: 
-        - CRI Core fellow 5-year group leader grant (Fondation Bettencourt-Schueller) 
-    - year: 2017 - 2020
-      items: 
-        - ATIP/Avenir grant
 
 - title: Academic Interests
   type: nested_list
