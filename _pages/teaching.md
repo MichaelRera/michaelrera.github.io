@@ -3,13 +3,12 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
-years: [ 2022, 2013-]
 nav: true
 nav_order: 4
 ---
 
- <h2 class="year">{{y}}</h2>
+ <h2>What is ageing, introduction to the </h2>
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Since 2013, I have been giving yearly two hours long research seminars for master students of the <a href="http://www.magisteregenet.univ-paris-diderot.fr/">Magistère Européen de Génétique</a>, the <a href="http://www.master.bmc.sorbonne-universite.fr/fr/master-2/biochimie-biologie-moleculaire/m2-biologie-et-pharmacologie-du-vieillissement.html">Master Biologie et Pharmacologie du Vieillissement</a> as well as the <a href="https://master-bip-universite-paris.fr/">Master Biologie Intégrative et Physiologie</a>.
 
-Organize your courses by years, topics, or universities, however you like!
+In 2022, I was invited to give a three hours course entitled "Ageing, what the Smurf?" to the <a href="http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2022.html">Chaire Modélisation Mathématique et Biodiversité</a>.
