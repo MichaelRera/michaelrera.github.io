@@ -20,12 +20,13 @@ social: true  # includes social icons at the bottom of the page
 
 <p>Trying to understand what ageing is, where it comes from and where it gets us, since 2005. Building the two-phase ageing framework since I first described the Smurf phenotype in <i> Drosophila melanogaster </i>. I started my research group "Understanding The End-of-Life" (UTELife) in 2018.</p>
 <p>The core of the research project I am carrying is strongly transdisciplinary, from basic biology, genetics and physiology to bioinformatics and mathematical modeling. </p>
-
+<p>
 <h3> Research team </h3>
 <p><a href = "https://www.researchgate.net/profile/Savandara-Besse">Savandara Besse, IE soon to be postdoc</a></p>
 <p><a href = "https://www.researchgate.net/profile/Flaminia-Zane">Flaminia Zane, PhD (graduated may 2022)</a></p>
-<p<a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid, 1st year PhD student co-supervised with </a></p>
+<p><a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid, 1st year PhD student co-supervised with </a><a href = "https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/1900-Cl%C3%A9ment-Carr%C3%A9">Clément Carré (MCF, SU)</a></p>
 <p><a href = "https://www.researchgate.net/profile/Marina-Abakarova">Marina Abakarova, 1st year PhD student co-supervised with </a><a href = "http://www.lcqb.upmc.fr/laine/Home.html"> Elodie Laine (MCF, SU) </a></p>
 <p><a href = "https://www.researchgate.net/profile/Fanny-Bain">Fanny Bain, Engineer</a></p>
 <h3> Alumni </h3>
 <a href = "https://www.researchgate.net/profile/Celine-Cansell">Céline Cansell, PhD</a>
+</p>
