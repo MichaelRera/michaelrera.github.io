@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Smurfness transcriptomic characterization
+description: Identifying an end-of-life gene expression signature
+img: assets/img/project_Flaminia.jpeg
 importance: 1
-category: work
+category: ongoing
 ---
 
 Every project has a beautiful feature showcase page.
@@ -15,9 +15,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    title: Smurfness transcriptomic characterization
+    description: Identifying an end-of-life gene expression signature
+    img: /assets/img/projet_Flaminia.jpg
     ---
 
 <div class="row">
