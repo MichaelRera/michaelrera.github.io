@@ -11,4 +11,4 @@ Our - hopefully someday - cover picture has been select has been selected by the
 <p class="aligncenter">
   <img src="https://user-images.githubusercontent.com/27353251/178017995-6663ecde-452b-4cb2-bd20-6bf3560ae297.jpg" width=500>
 </p>
-credits: "Life and death" <a href="https://www.aurorecolibert.com/">Aurore Colibert</a> & Michael Rera 
+"Life and death", credits: <a href="https://www.aurorecolibert.com/">Aurore Colibert</a> & Michael Rera 
