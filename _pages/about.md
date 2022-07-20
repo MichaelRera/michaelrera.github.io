@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 <h3> Research team </h3>
 <a href = "https://www.researchgate.net/profile/Savandara-Besse">Savandara Besse, IE soon to be postdoc</a><br>
 <a href = "https://www.researchgate.net/profile/Flaminia-Zane">Flaminia Zane, PhD (graduated may 2022)</a><br>
-<a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid, 1st year PhD student co-supervised with </a><a href = "https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/1900-Cl%C3%A9ment-Carr%C3%A9">Clément Carré (MCF, SU)</a><r>
+<a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid, 1st year PhD student co-supervised with </a><a href = "https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/1900-Cl%C3%A9ment-Carr%C3%A9">Clément Carré (MCF, SU)</a><br>
 <a href = "https://www.researchgate.net/profile/Marina-Abakarova">Marina Abakarova, 1st year PhD student co-supervised with </a><a href = "http://www.lcqb.upmc.fr/laine/Home.html"> Elodie Laine (MCF, SU) </a><br>
 <a href = "https://www.researchgate.net/profile/Fanny-Bain">Fanny Bain, Engineer</a><br>
 <h3> Alumni </h3>
