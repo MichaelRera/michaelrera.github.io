@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Deciphering ageing by deconvolving physiological and chronological ages
-description: a project with a background image
-img: assets/img/12.jpg
+description: Better understand ageing by using the two-phase ageing model
+img: assets/img/projet_Flaminia.jpg
 importance: 1
 category: ongoing
 ---
