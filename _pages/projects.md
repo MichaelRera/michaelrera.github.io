@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Slowly poulating this section.
+description: Slowly populating this section.
 nav: true
 nav_order: 2
 display_categories: [ongoing, starting]
