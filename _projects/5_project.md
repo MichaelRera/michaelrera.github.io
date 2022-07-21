@@ -2,7 +2,7 @@
 layout: page
 title: Gene networks in the Smurf transition
 description: Testing the Network Theory of Ageing using the Smurf-based two-phase ageing model.
-img: assets/img/projet_Savvy.jpg
+img: assets/img/projet_Saavy.jpg
 importance: 3
 category: ongoing
 ---
