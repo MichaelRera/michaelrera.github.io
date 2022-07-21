@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Deciphering ageing by deconvolving physiological and chronological ages
-description: Better understand ageing by using the two-phase ageing model
+title: Deconvolving physiological and chronological ages
+description: Characterizing the end-of-life Smurf transcriptome to better understand ageing.
 img: assets/img/projet_Flaminia.jpg
 importance: 1
 category: ongoing
 ---
-
+<!--
 Every project has a beautiful feature showcase page.
 	@@ -15,9 +15,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
@@ -75,3 +75,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+-->
