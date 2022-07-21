@@ -1,12 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Gene networks in the Smurf transition
+description: Testing the Network Theory of Ageing using the Smurf-based two-phase ageing model.
+img: assets/img/projet_Savvy.jpg
 importance: 3
-category: fun
+category: ongoing
 ---
-
+<!--
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -78,3 +78,4 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+-->
