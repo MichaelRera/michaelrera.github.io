@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p>Trying to understand what ageing is, where it comes from and where it gets us, since 2005. Building the two-phase ageing framework since I first described the Smurf phenotype in <i> Drosophila melanogaster </i>. I started my research group "Understanding The End-of-Life" (UTELife) in 2018.</p>
 <p>The core of the research project I am carrying is strongly transdisciplinary, from basic biology, genetics and physiology to bioinformatics and mathematical modeling. </p>
-<p>
+<p><small>
 <h3> Research team </h3>
 <a href = "https://www.researchgate.net/profile/Savandara-Besse">Savandara Besse</a>, IE soon to be postdoc<br>
 <a href = "https://www.researchgate.net/profile/Flaminia-Zane">Flaminia Zane</a>, PhD (graduated may 2022)<br>
@@ -29,4 +29,4 @@ social: true  # includes social icons at the bottom of the page
 <a href = "https://www.researchgate.net/profile/Fanny-Bain">Fanny Bain</a>, Engineer<br>
 <h3> Alumni </h3>
 <a href = "https://www.researchgate.net/profile/Celine-Cansell">Céline Cansell</a>, PhD
-</p>
+</small></p>
