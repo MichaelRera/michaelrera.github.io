@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Ageing as an adaptive force
-description: How to model the broad presence of Smurness amongst living organisms?
-img: assets/img/projet_EvoAgeing.jpg
+title: Measuring individuals' biological time 
+description: How to build an artificial clock giving us access to the biological time passing in an individual?
+img: assets/img/projet_clock.jpg
 importance: 3
 category: ongoing
 ---
