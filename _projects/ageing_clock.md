@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Reading the biological time
-description: How to build an artificial clock to measure individual biological time?
-img: assets/img/projet_clock.jpg
+title: Ageing as an adaptive force
+description: How to model the broad presence of Smurness amongst living organisms?
+img: assets/img/projet_evoageing.jpg
 importance: 3
-category: searching_for_candidates
+category: ongoing
 ---
