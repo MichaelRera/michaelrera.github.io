@@ -13,7 +13,7 @@ Here we build upon a model we previously published with Dr. Tristan Roget and Pr
 
 <img src="/assets/img/mixed_sim.jpg"
      alt="evolution of haploid bd organisms in competition for resources"
-     width="700"
-     height="598"
+     width="720"
+     height="500"
      title="Evolution of a population of bd organisms with (xb-xd) € [-10; 10] leads to the selection of Lansing effect-bearing individuals">
 
