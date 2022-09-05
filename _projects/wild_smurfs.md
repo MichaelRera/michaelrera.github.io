@@ -15,3 +15,5 @@ category: ongoing
         style="border:none;">
     </iframe>
 </p>
+
+This mission in the heart of the Costa Rica forest was documented by <a href="https://u-paris.fr/cerilac/teams/tournier-frederic/">Assistant Prof. Frédéric Tournier</a> in a short movie <a href="https://www.youtube.com/watch?v=QCjDf3BIKq0&t=1s&ab_channel=SciencesMediasParis7">DrosoRica</a>.
