@@ -10,8 +10,8 @@ category: ongoing
 <p align="center">
     <iframe src = "https://michaelrera.github.io/field_insects_collection/"
         title = "interactive map of the fly sampling in Costa Rica" 
-        width = "400"
-        height = "300"
+        width = "800"
+        height = "600"
         style="border:none;">
     </iframe>
 </p>
