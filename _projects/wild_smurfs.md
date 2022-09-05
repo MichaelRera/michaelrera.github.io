@@ -2,7 +2,7 @@
 layout: page
 title: Ageing in the wild
 description: Can we find Smurfs in natural populations and what would this tell us about ageing?
-img: #assets/img/wild_sm.jpg
+img: #assets/img/LaGamba.jpg
 importance: 3
 category: ongoing
 ---
