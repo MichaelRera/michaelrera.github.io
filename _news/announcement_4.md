@@ -1,6 +1,5 @@
 ---
 layout: post
-title: The Conversation article
 date: 2022-09-222 10:17:00-0400
 inline: true
 ---
