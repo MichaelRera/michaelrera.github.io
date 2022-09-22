@@ -2,7 +2,7 @@
 layout: post
 title: The Conversation article
 date: 2022-09-222 10:17:00-0400
-inline: false
+inline: true
 ---
 
 An article in the mission we conducted in Costa Rica Tropen Station
