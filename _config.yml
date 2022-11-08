@@ -58,7 +58,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: MichaelRera # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Michael__Rera # your Twitter handle
-mastodon_username: michael__rera@drosophila.social
+mastodon_username: <a rel="me" href="https://drosophila.social/@Michael__Rera">Mastodon</a>
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0002-6574-6511 # your ORCID ID
