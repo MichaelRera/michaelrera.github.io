@@ -58,7 +58,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: MichaelRera # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Michael__Rera # your Twitter handle
-mastodon_username: <a rel="me" href="https://drosophila.social/@Michael__Rera">Mastodon</a>
+mastodon_username: Michael__Rera@drosophila.social
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0002-6574-6511 # your ORCID ID
@@ -74,7 +74,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Email is probably the best way to reach me.
+  Email (or <a rel="me" href="https://drosophila.social/@Michael__Rera">Mastodon</a>) is probably the best way to reach me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
