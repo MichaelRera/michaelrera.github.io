@@ -15,6 +15,5 @@ nav_order: 4
 <p><h3>Enjeux éthiques et sociétaux de la prédiction de la mort - <a href = "https://www.plateforme-recherche-findevie.fr/">Plateforme Nationale de Recherche sur la Fin de Vie </a> </h3>
 <p><a href="https://www.youtube.com/watch?v=AA60A5vhMeU&ab_channel=PlateformeRecherchefindevie ">video (french) </a>
 
-</div>
 
  
