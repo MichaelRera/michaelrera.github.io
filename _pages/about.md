@@ -28,7 +28,6 @@ social: true  # includes social icons at the bottom of the page
 <a href = "https://www.researchgate.net/profile/Marina-Abakarova">Marina Abakarova</a>, 1st year PhD student co-supervised with <a href = "http://www.lcqb.upmc.fr/laine/Home.html"> Elodie Laine (MCF, SU) </a><br>
 
 <h3> Alumni </h3>
-<a href = "https://www.researchgate.net/profile/Celine-Cansell">Céline Cansell</a>, PhD
-</small></p>
+<a href = "https://www.researchgate.net/profile/Celine-Cansell">Céline Cansell</a>, PhD<br>
 <a href = "https://www.researchgate.net/profile/Flaminia-Zane">Flaminia Zane</a>, PhD (graduated may 2022)<br>
-<a href = "https://www.researchgate.net/profile/Fanny-Bain">Fanny Bain</a>, Engineer<br>
+<a href = "https://www.researchgate.net/profile/Fanny-Bain">Fanny Bain</a>, Engineer<br></small>
