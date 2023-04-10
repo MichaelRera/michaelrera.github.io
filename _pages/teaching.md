@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: teaching and popSci
 description: # Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 4
 ---
+
+<h3><a href="https://www.cerclefser.org/fr/declics/">Déclics</a></h3>
 
  <h3>What is ageing, introduction to the Smurf-based two-phase ageing model </h3>
 
