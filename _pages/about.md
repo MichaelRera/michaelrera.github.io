@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
+    <p align="right"><a href="https://www.ijm.fr/">Institut Jacques Monod</a> - <a href = "https://www.ijm.fr/research-topics/courtier-lab-va/?lang=en#1645024419730-620d35cf-4875">Team Courtier</a> </p> 
     <p align="right">4th floor</p>
     <p align="right">25 Rue Hélène Brion</p>
     <p align="right">75013, Paris</p>
@@ -21,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 <p>Trying to understand what ageing is, where it comes from and where it gets us, since 2005. Building the two-phase ageing framework since I first described the Smurf phenotype in <i> Drosophila melanogaster </i>. I started my research group "Understanding The End-of-Life" (UTELife) in 2018.</p>
 <p>The core of the research project I am carrying is strongly transdisciplinary, from basic biology, genetics and physiology to bioinformatics and mathematical modeling. </p>
 <p><small>
-<h3> Research team </h3>
+<h3> Research group </h3>
 <a href = "https://www.researchgate.net/profile/Savandara-Besse">Savandara Besse</a>, postdoc<br>
 
 <a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid</a>, 1st year PhD student co-supervised with <a href = "https://www.ibps.sorbonne-universite.fr/fr/IBPS/annuaire/1900-Cl%C3%A9ment-Carr%C3%A9">Clément Carré (MCF, SU)</a><br>
