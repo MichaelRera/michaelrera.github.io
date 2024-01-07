@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.insb.cnrs.fr/fr/personne/michael-rera">CRCN CNRS, HDR</a>
+subtitle: <a href="">CRCN CNRS, HDR</a>
 
 profile:
   align: right
