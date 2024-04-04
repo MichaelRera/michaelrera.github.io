@@ -8,6 +8,7 @@ nav_order: 4
 ---
 <div class="publications">
 <h2 class="year">2024</h2>
+<h2><li><b>IHPST Workshop <a href="https://u-paris.fr/who-am-i/en/theoretical-lessons-from-the-biology-of-aging-workshop/"> talk </a> "Studying ageing as a two-phase process""</b></li></h2>
 <h2><li><b>EMBO Workshop <a href="https://meetings.embo.org/event/24-aging"> talk </a> "Developmental circuits in aging"</b></li></h2>
 <h2 class="year">2023</h2>
 <h2><li><b>Ageing workshop talk <a href="https://edrclyon.sciencesconf.org/">EDRC</a> "Studying ageing as a two phases process: into Smurfness"</b></li></h2>
