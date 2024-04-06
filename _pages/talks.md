@@ -8,8 +8,9 @@ nav_order: 4
 ---
 <div class="publications">
 <h2 class="year">2024</h2>
-<h2><li><b>IHPST Workshop <a href="https://u-paris.fr/who-am-i/en/theoretical-lessons-from-the-biology-of-aging-workshop/"> talk </a> "Studying ageing as a two-phase process""</b></li></h2>
 <h2><li><b>EMBO Workshop <a href="https://meetings.embo.org/event/24-aging"> talk </a> "Developmental circuits in aging"</b></li></h2>
+<h2><li><b>IHPST Workshop <a href="https://u-paris.fr/who-am-i/en/theoretical-lessons-from-the-biology-of-aging-workshop/"> talk </a> "Studying ageing as a two-phase process""</b></li></h2>
+
 <h2 class="year">2023</h2>
 <h2><li><b>Ageing workshop talk <a href="https://edrclyon.sciencesconf.org/">EDRC</a> "Studying ageing as a two phases process: into Smurfness"</b></li></h2>
 <u>abstract : </u> <i>The phenomenon of aging has traditionally been viewed as a gradual and continuous process impacting individuals over time. Over the past three decades, studies have observed a discernible age-related rise in systemic chronic inflammation or oxidative stress-induced damages amongst many other “hallmarks of ageing”. Nonetheless, even within genetically homogeneous populations, such as those found in our model organisms, there exists substantial heterogeneity in individual mortality outcomes. By exploring this inherent heterogeneity, we propose a novel perspective on the mechanisms underpinning aging through a two-phase model, as revealed by the Smurf test. This approach offers a fresh lens through which to examine the fundamental processes driving aging. </i>
