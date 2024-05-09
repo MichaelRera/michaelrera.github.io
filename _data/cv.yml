@@ -11,9 +11,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Principal Investigator UTELife (Understanding The End-of-Life)
+      institution: Institut Jacques Monod (Université Paris Cité / CNRS)
+      year: 2024 - 
+      description: hosted in <a href="https://courtier.ijm.fr/">Virginie Courtier</a>'s team
     - title: Group leader team UTELife (Understanding The End-of-Life)
       institution: Centre de Recherche Interdisciplinaire (Université Paris Cité / INSERM)
-      year: 2020 - 
+      year: 2020 - 2023
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -33,7 +37,7 @@
     - title: Postdoc
       institution: Université of California, Los Angeles
       year: 2010 - 2013
-      description: Studying the role of intestinalstem cells mitochondria in ageing
+      description: Studying the role of intestinal stem cells mitochondria in ageing
       
 - title: Grants
   type: time_table
