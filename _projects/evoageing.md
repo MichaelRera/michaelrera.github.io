@@ -17,3 +17,4 @@ Here we build upon a model we previously published with Dr. Tristan Roget and Pr
      height="500"
      title="Evolution of a population of bd organisms with (xb-xd) € [-10; 10] leads to the selection of Lansing effect-bearing individuals">
 
+<a href="https://elifesciences.org/articles/92914">eLife version of record on November 2024  </a>
