@@ -8,7 +8,9 @@ nav_order: 4
 ---
 <div class="publications">
 <h2 class="year">2024</h2>
-<h2><li><b><a href="https://www.insb.cnrs.fr/fr/life-plastic-how-phenotypic-plasticity-makes-us-rethink-central-problems-biology"> Conférence Jacques Monod </a> "Life is plastic"</b></li></h2>
+<h2><li><b>Invited talk  <a href="https://institut-sophia-agrobiotech.paca.hub.inrae.fr/equipes-isa/bes"> by Bacillus, Environnement et Santé, Sophia - Agrobiotech </a> "Studying ageing as a two-phase process"</b></li></h2>
+<h2><li><b>8<sup>th</sup> scientific days of the CRRPSA  <a href="https://crrpsa.fr/post/65ca3f9565323951790000e1"> "The last 1000 days" </a> invited talk "Predict impending death from natural causes"</b></li></h2>
+<h2><li><b>IHPST Workshop <a href="https://u-paris.fr/who-am-i/en/theoretical-lessons-from-the-biology-of-aging-workshop/"> talk </a> "Studying ageing as a two-phase process""</b></li></h2>
 <h2><li><b>EMBO Workshop <a href="https://meetings.embo.org/event/24-aging"> talk </a> "Developmental circuits in aging"</b></li></h2>
 <h2><li><b>IHPST Workshop <a href="https://u-paris.fr/who-am-i/en/theoretical-lessons-from-the-biology-of-aging-workshop/"> talk </a> "Studying ageing as a two-phase process""</b></li></h2>
 
