@@ -15,6 +15,14 @@ nav_order: 4
 <h2><li><b>ANR JCJC ADAGIO</b></li></h2>
 <h2><li><b>CRI Core fellowship</b></li></h2>
 
+<h2 class="year">2019</h2>
+<h2><li><b>Actions Incitatives Sorbonne Université - collaboration with Prof. Stéphanie Daumas and Dr. Nicolas Pietrancosta</b></li></h2>
+<h2><li><b>Institut Humanités, Sciences et Sociétés - collaboration Dr. Marie Gaille</b></li></h2>
+
 <h2 class="year">2018</h2>
-<h2><li><b>>ATIP-Avenir group leader starting grant</b></li></h2>
+<h2><li><b>Actions Incitatives Sorbonne Université - collaboration with Prof. Clément Carré</b></li></h2>
+<h2><li><b>ATIP-Avenir group leader starting grant</b></li></h2>
  
+ <h2 class="year">2017</h2>
+<h2><li><b>Institut Humanités, Sciences et Sociétés - collaboration Dr. Marie Gaille</b></li></h2>
+
