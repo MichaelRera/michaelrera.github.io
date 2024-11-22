@@ -4,7 +4,7 @@ title: Ageing's evolutionary advantages
 description: How to explain the broad presence of two phases of ageing amongst living organisms?
 img: assets/img/projet_EvoAgeing.jpg
 importance: 3
-category: ongoing
+category: done
 ---
 
 The possibility of ageing being directly selected through evolution has been discussed for the past hundred years. As ageing is occurring, by definition, only late in life - i.e. after the organismal development is finalized -, many think that it cannot be actively selected for as a process. In addition, by decreasing an individual’s fitness, it is thought unlikely to be selected for. In order to explain the observation of its broad presence in the realm of life, numerous theories have been proposed in the past 75 years, in agreement with this view.  
@@ -17,4 +17,4 @@ Here we build upon a model we previously published with Dr. Tristan Roget and Pr
      height="500"
      title="Evolution of a population of bd organisms with (xb-xd) € [-10; 10] leads to the selection of Lansing effect-bearing individuals">
 
-<a href="https://elifesciences.org/articles/92914">eLife version of record on November 2024  </a>
+<p><a href="https://elifesciences.org/articles/92914">eLife version of record on November 2024  </a>
