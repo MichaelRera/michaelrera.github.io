@@ -22,10 +22,10 @@ Here's the <a href="https://springernature.figshare.com/registered-reports_BMCB"
 
 
 <div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.html path="assets/img/papier_celine/2.png" title="intestinal permeability as a function of time to death" class="img-fluid" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.html path="assets/img/papier_celine/3.jpg" title="life histories" class="img-fluid" %}
     </div>
 </div>
