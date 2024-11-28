@@ -32,13 +32,22 @@ When re-aligned on the date of death instead of the date of birth, i.e. physiolo
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/papier_celine/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+The Smurf assay allows us to divide the life-history of single individuals into the two-phases (left figure) that we previously described <a href=""> (Rera et al., 2012; </a> <a href = "https://www.researchgate.net/publication/283494420_A_New_Discontinuous_2_Phases_of_Aging_Model_Lessons_from_Drosophila_melanogaster"> Tricoire and Rera, 2015).</a>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/papier_celine/4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/papier_celine/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
- The Smurf assay allows us to divide the life-history of single individuals into the two-phases (left figure) that we previously described <a href=""> (Rera et al., 2012; </a> <a href = ""> Tricoire and Rera, 2015).</a>
+As previously described in flies <a href="https://www.researchgate.net/publication/233909455_Intestinal_barrier_dysfunction_links_metabolic_and_inflammatory_markers_of_aging_to_death_in_Drosophila"> (Rera et al., 2012; </a>, nematodes and zebrafish <a href="https://www.researchgate.net/publication/299338408_Two_phases_of_aging_separated_by_the_Smurf_transition_as_a_public_path_to_death"> (Dambroise et al., 2016)</a> Smurfs increase in proportion as age increases while the remaining lifespan of Smurf mice is largely independent from the chronological age at transition <a href = "https://www.researchgate.net/publication/283494420_A_New_Discontinuous_2_Phases_of_Aging_Model_Lessons_from_Drosophila_melanogaster"> Tricoire and Rera, 2015).</a></a>
 </div>
