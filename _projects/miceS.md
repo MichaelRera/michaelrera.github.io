@@ -11,7 +11,7 @@ Here's the <a href="https://springernature.figshare.com/registered-reports_BMCB"
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/papier_celine/1.png" title="experimental design" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/papier_celine/1.png" title="experimental design" class="img-fluid" %}
     </div>
 </div>
 
