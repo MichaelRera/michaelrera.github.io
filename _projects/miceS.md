@@ -13,9 +13,12 @@ Here's the <a href="https://springernature.figshare.com/registered-reports_BMCB"
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/papier_celine/1.png" title="experimental design" class="img-fluid" %}
     </div>
+    <span>
+    We aged a cohort of 50 AKR/J female mice until their death from natural causes (APAFIS #18333-2018112915281820v6) and measured, every 3-4 weeks (represented by the vertical arrows), intetsinal permeability, body composition, behavioural parameters, ...
+    </span>
 </div>
 
-We aged a cohort of 50 AKR/J female mice until their death from natural causes (APAFIS #18333-2018112915281820v6) and measured, every 3-4 weeks (represented by the vertical arrows), intetsinal permeability, body composition, behavioural parameters, ...
+
 
 
 <div class="row">
