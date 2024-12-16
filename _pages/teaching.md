@@ -7,6 +7,9 @@ nav: true
 nav_order: 4
 ---
 <div class="publications">
+<h2 class="year">2025</h2>
+<h2><li><b>Presenting job of researchers to high-schoolers through the <a href = "https://www.cerclefser.org/fr/declics/je-participe-chercheur/">Déclics </a> program.</b></li></h2>
+
 <h2 class="year">2024</h2>
 <h2><li><b>Presenting the two-phase model of ageing in the <a href = "https://u-paris.fr/who-am-i/en/pint-of-science-festival-2024/">Pint of Science 2024 </a> festival.</b></li></h2>
 
