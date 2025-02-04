@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /meeting_org/
-title: meeting&training_schools
+title: meetings&training_schools
 description: # Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
