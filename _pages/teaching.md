@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching & popSci
+title: teaching&popSci
 description: # Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 4
+nav_order: 6
 ---
 <div class="publications">
 <h2 class="year">2025</h2>
