@@ -5,7 +5,7 @@ description: Predicting the impact of SNPs on longevity
 img: assets/img/projet_Marina.jpg
 <!-- redirect: https://unsplash.com -->
 importance: 3
-category: ongoing
+category: experimental
 ---
 
 How can we discriminate the potential impact of missense mutations? 

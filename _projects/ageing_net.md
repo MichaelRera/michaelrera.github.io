@@ -4,7 +4,7 @@ title: Gene networks in the Smurf transition
 description: Testing the Network Theory of Ageing using the Smurf-based two-phase ageing model.
 img: assets/img/projet_Saavy.jpg
 importance: 3
-category: ongoing
+category: experimental
 ---
 
 <p>Ageing is a complex process for which multiple genetic regulators have been identified in the past 30 years. Yet, the very mechanisms driving ageing have not been identified.</p>

@@ -5,7 +5,7 @@ permalink: /projects/
 description: Slowly populating this section.
 nav: true
 nav_order: 2
-display_categories: [ongoing, searching_for_candidates, done]
+display_categories: [experimental, theoretical]
 horizontal: false
 ---
 
