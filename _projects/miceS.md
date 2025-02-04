@@ -26,7 +26,7 @@ Here's the <a href="https://springernature.figshare.com/registered-reports_BMCB"
         {% include figure.html path="assets/img/papier_celine/2.png" title="intestinal permeability as a function of time to death" class="img-fluid" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/papier_celine/3.jpg" title="life histories" class="img-fluid" %}
+        {% include figure.html path="assets/img/papier_celine/3.png" title="life histories" class="img-fluid" %}
     </div>
 </div>
 
@@ -35,7 +35,7 @@ When re-aligned on the date of death instead of the date of birth, i.e. physiolo
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/papier_celine/6.jpg" title="example image" class="img-fluid" %}
+        {% include figure.html path="assets/img/papier_celine/6.png" title="example image" class="img-fluid" %}
     </div>
 </div>
 
@@ -44,10 +44,10 @@ The Smurf assay allows us to divide the life-history of single individuals into 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/papier_celine/4.jpg" title="example image" class="img-fluid" %}
+        {% include figure.html path="assets/img/papier_celine/4.png" title="example image" class="img-fluid" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/papier_celine/5.jpg" title="example image" class="img-fluid" %}
+        {% include figure.html path="assets/img/papier_celine/5.png" title="example image" class="img-fluid" %}
     </div>
 </div>
 
