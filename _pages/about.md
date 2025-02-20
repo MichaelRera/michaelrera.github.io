@@ -32,5 +32,5 @@ social: true  # includes social icons at the bottom of the page
 <h3> Alumni </h3>
 <a href = "https://www.researchgate.net/profile/Celine-Cansell">Céline Cansell</a>, postdoc<br>
 <a href = "https://www.researchgate.net/profile/Flaminia-Zane">Flaminia Zane</a>, PhD (graduated may 2022)<br>
-<a href = "https://www.researchgate.net/profile/Fanny-Bain">Fanny Bain</a>, Engineer<br></small>
-<a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid</a>, PhD student
+<a href = "https://www.researchgate.net/profile/Fanny-Bain">Fanny Bain</a>, Engineer<br>
+<a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid</a>, PhD student</small>
