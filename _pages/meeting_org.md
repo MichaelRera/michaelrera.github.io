@@ -15,12 +15,35 @@ nav_order: 5
 
 <h2><li><b>JEDI 2025 meeting <a href="https://flies-jedi.github.io/projects/2025JEDImeeting/"> on June 3-5</a></b></li></h2>
 
-<figure>
-    <img src="../assets/img/2025JEDI/participants_map.png" alt = "participants map" height="220" width="220" class = "left">
+<style>
+  .figures-row {
+    display: flex;
+    align-items: flex-start; /* Aligns the top of images */
+    gap: 20px; /* Optional spacing between figures */
+  }
+
+  .figures-row figure {
+    text-align: center;
+  }
+
+  .figures-row img {
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
+<div class="figures-row">
+  <figure>
+    <img src="../assets/img/2025JEDI/participants_map.png" alt="Participants map" height="220" width="220">
     <figcaption>Participants map</figcaption>
-    <img src="../assets/img/2025JEDI/wordcloud.png" alt = "wordcloud of reserach themes" height="150" width="230" class = "right">
+  </figure>
+
+  <figure>
+    <img src="../assets/img/2025JEDI/wordcloud.png" alt="Wordcloud of research themes" height="150" width="230">
     <figcaption>Research themes</figcaption>
-</figure>
+  </figure>
+</div>
+
 
 </div>
 
