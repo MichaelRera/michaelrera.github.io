@@ -18,10 +18,10 @@ nav_order: 5
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/JEDI2025/participants_map.png" title="map of participants labs localisation" class="img-fluid" %}
+        {% include figure.html path="../assets/img/JEDI2025/participants_map.png" title="map of participants labs localisation" class="img-fluid" %}
     </div>
     <div class="col-sm-7 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/JEDI2025/wordcloud.png" title="word cloud of research themes present at JEDI 2025" class="img-fluid" %}
+        {% include figure.html path="../assets/img/JEDI2025/wordcloud.png" title="word cloud of research themes present at JEDI 2025" class="img-fluid" %}
     </div>
 </div>
 
