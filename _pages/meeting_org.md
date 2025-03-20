@@ -18,12 +18,10 @@ nav_order: 5
 <figure>
     <img src="../assets/img/2025JEDI/participants_map.png" alt = "participants map" height="220" width="220" class = "left">
     <figcaption>Participants map</figcaption>
-</figure>
-
-<figure>
     <img src="../assets/img/2025JEDI/wordcloud.png" alt = "wordcloud of reserach themes" height="200" width="300" class = "right">
     <figcaption>Research themes</figcaption>
 </figure>
+
 </div>
 
 
