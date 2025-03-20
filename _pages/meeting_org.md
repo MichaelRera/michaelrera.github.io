@@ -15,6 +15,7 @@ nav_order: 5
 
 <h2><li><b>JEDI 2025 meeting <a href="https://flies-jedi.github.io/projects/2025JEDImeeting/"> on June 3-5</a></b></li></h2>
 
+</div>
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
@@ -25,5 +26,5 @@ nav_order: 5
     </div>
 </div>
 
-</div>
+
 
