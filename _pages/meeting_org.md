@@ -39,7 +39,7 @@ nav_order: 5
   </figure>
 
   <figure>
-    <img src="../assets/img/2025JEDI/wordcloud.png" alt="Wordcloud of research themes" height="150" width="230">
+    <img src="../assets/img/2025JEDI/wordcloud.png" alt="Wordcloud of research themes" height="220" width="400">
     <figcaption>Research themes</figcaption>
   </figure>
 </div>
