@@ -21,7 +21,7 @@ nav_order: 5
 </figure>
 
 <figure>
-    <img src="../assets/img/2025JEDI/wordcloud.png" alt = "wordcloud of reserach themes" height="220" width="360" class = "right">
+    <img src="../assets/img/2025JEDI/wordcloud.png" alt = "wordcloud of reserach themes" height="200" width="300" class = "right">
     <figcaption>Research themes</figcaption>
 </figure>
 </div>
