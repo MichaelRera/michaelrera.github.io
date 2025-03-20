@@ -16,4 +16,16 @@ nav_order: 5
 <h2><li><b>JEDI 2025 meeting <a href="https://flies-jedi.github.io/projects/2025JEDImeeting/"> on June 3-5</a></b></li></h2>
 
 
+ <div class="container">
+   <figure>
+   <img src="../assets/img/2025JEDI/participants_map.png" height="200" width="200">
+   <figcaption>Map of participants labs localisations</figcaption>
+   </figure>
+
+   <figure>
+   <img class="middle-img" src="../assets/img/2025JEDI/wordcloud.png" height="200" width="200">
+   <figcaption>Wordcloud of researches thematics present at the JEDI 2025 meeting</figcaption>
+   </figure>
+</div>
+
 
