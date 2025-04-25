@@ -10,7 +10,9 @@ nav_order: 4
 <h2 class="year">2025</h2>
 <h2><li><b>Short talk <a href="https://droseu.net/">"Assessing ageing in the wild, getting help from Smurfs" at the DrosEU conference in Lisbon.</a></b>.</li></h2>
 <h2><li><b>Invited talk <a href="https://medicine.nus.edu.sg/trp/healthy-longevity/events/global-conference-on-gerophysics/">Global Conference on Gerophysics</a></b></li></h2>
-<img src = "/assets/img/Singapore/NUSG1253.jpg">
+<img src = "/assets/img/Singapore/NUSG1253.jpg" style="height:30%;"> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jMsbEtP91cU?si=JWWUzLUpFcu9FwVL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <h2><li><b>Invited talk  <a href="https://www.biology.lu.se/internal/research-and-education/postgraduate-studies/blam-annual-meeting-department-biology">BLAM – the annual meeting at the Department of Biology </a>"Studying ageing using flies"</b></li></h2>
 <h2 class="year">2024</h2>
 <h2><li><b>Invited talk  <a href="https://jasfgg.com/">44th Annual Meeting
