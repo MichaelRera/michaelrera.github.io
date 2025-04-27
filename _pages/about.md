@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p align="right"><a href="https://www.ijm.fr/">Institut Jacques Monod</a> - <a href = "https://www.ijm.fr/research-topics/courtier-lab-va/?lang=en#1645024419730-620d35cf-4875">Team Courtier</a> </p> 
-    <p align="right">4th floor</p>
-    <p align="right">25 Rue Hélène Brion</p>
+    <p align="right"><a href="https://bfa.u-pariscite.fr/">Biologie Fonctionnelle et Adaptative</a> - <a href = "https://bfa.u-pariscite.fr/">Team Magnan</a> </p> 
+    <p align="right">5th floor</p>
+    <p align="right">35 Rue Hélène Brion</p>
     <p align="right">75013, Paris</p>
 
 news: true  # includes a list of news items
