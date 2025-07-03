@@ -28,10 +28,11 @@ social: true  # includes social icons at the bottom of the page
 
 <a href="https://www.linkedin.com/in/luce-breuil-4829081b9/?originalSubdomain=fr">Luce Breuil</a>, 1st year PhD student co-supervised with <a href="https://www.researchgate.net/profile/Sarah-Kaakai">Sarah Kaakai</a> (MCF, UP13) and <a href="https://www.researchgate.net/profile/Marie-Doumic"> Marie Doumic</a> (DR INRIA)<br>
 <a href = "https://www.researchgate.net/profile/Marina-Abakarova">Marina Abakarova</a>, 3rd year PhD student co-supervised with <a href = "http://www.lcqb.upmc.fr/laine/Home.html"> Elodie Laine (Prof., SU) </a><br>
-Veronica Stachetti, Master 2 student - Magistère Européen de Génétique<br>
+
 
 <h3> Alumni </h3>
 <a href = "https://www.researchgate.net/profile/Celine-Cansell">Céline Cansell</a>, postdoc<br>
 <a href = "https://www.researchgate.net/profile/Flaminia-Zane">Flaminia Zane</a>, PhD (graduated may 2022)<br>
 <a href = "https://www.researchgate.net/profile/Fanny-Bain">Fanny Bain</a>, Engineer<br>
-<a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid</a>, PhD student</small>
+<a href = "https://www.researchgate.net/profile/Hayet-Bouzid-2">Hayet Bouzid</a>, PhD student<br>
+Veronica Stachetti, Master 2 student - Magistère Européen de Génétique<br></small>
