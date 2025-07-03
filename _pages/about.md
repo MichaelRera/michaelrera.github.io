@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="">CRCN CNRS, HDR</a>
+subtitle: <a href="">DR CNRS, HDR</a>
 
 profile:
   align: right
