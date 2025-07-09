@@ -8,6 +8,7 @@ nav_order: 4
 ---
 <div class="publications">
 <h2 class="year">2025</h2>
+<h2><li><b>Keynote Bateson Symposium <a href="https://sheffield.ac.uk/whatson/current">"Ageing in two phases: from flies to humans."</a></b>.</li></h2>
 <h2><li><b>Short talk <a href="https://droseu.net/">"Assessing ageing in the wild, getting help from Smurfs" at the DrosEU conference in Lisbon.</a></b>.</li></h2>
 <h2><li><b>Invited talk <a href="https://medicine.nus.edu.sg/trp/healthy-longevity/events/global-conference-on-gerophysics/">Global Conference on Gerophysics</a></b></li></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jMsbEtP91cU?si=JWWUzLUpFcu9FwVL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
