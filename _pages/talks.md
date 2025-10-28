@@ -8,6 +8,7 @@ nav_order: 4
 ---
 <div class="publications">
 <h2 class="year">2025</h2>
+<br>
 <h2><li><b>Webinaire for the French Society of Geriatry and Gerontology (SFGG) <a href="https://www.youtube.com/watch?v=kF0Yd4a3ADY">"Un Vieillissement en deux phases : de la mouche à l'être humain." (in french)</a></b>.</li></h2>
 <h2><li><b>Keynote Bateson Symposium <a href="https://sheffield.ac.uk/whatson/current">"Ageing in two phases: from flies to humans."</a></b>.</li></h2>
 <h2><li><b>Short talk <a href="https://droseu.net/">"Assessing ageing in the wild, getting help from Smurfs" at the DrosEU conference in Lisbon.</a></b>.</li></h2>
@@ -32,6 +33,7 @@ of the French Society of Geriatrics and Gerontology </a>"Etudier le vieillisseme
 <h2><li><b>Invited speaker at <a href="https://isyeb.mnhn.fr/fr/agenda/colloquium-expanding-evolutionary-theories-ageing-take-account-symbioses-and-interactions">colloquium “expanding evolutionary theories of ageing to take into account symbioses and interactions throughout the web of life”. 2nd edition</a> ""Some thoughts on the debates about the programmed vs non programmed nature of ageing" 
 <h2><li><b>Invited speaker <a href="https://www.insb.cnrs.fr/fr/croissance-et-regeneration-durant-le-developpement-et-le-vieillissement">Conférence Jacques Monod</a> "Two phases to better understand ageing"</b></li></h2>
 <h2 class="year">2022</h2>
+<br>
 <h2><li>Keynote <a href="https://www.immunology.org/events/immune-surveillance-in-the-ageing-microenvironment">Immune surveillance in the ageing microenvironment conference</a> "Two phases to better understand ageing"</li></h2>
 <h2><li><b>Le regard d'un chercheur en biologie: pourrait-on un jour prédire notre mort? - Séminaire d'Ethique Clinique (APHP) </b></li></h2>
  
