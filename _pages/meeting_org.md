@@ -9,8 +9,6 @@ nav_order: 5
 <div class="publications">
 <h2 class="year">2025</h2>
 <br>
-<h2><li><b><a href="https://www.insb.cnrs.fr/fr/evenement/expanding-evolutionary-theories-ageing-take-account-symbioses-and-interactions-throughout">"Expanding evolutionary theories of ageing to take into account symbioses and interactions throughout the Web of Life"</a></b> co-organised with<a href = "https://scholar.google.com/citations?user=aAnp-xkAAAAJ&hl=fr"> Dr. Eric Bapteste</a> and <a href = "https://scholar.google.com/citations?user=UVCppEoAAAAJ&hl=fr">Prof. Philippe Lopez</a></li></h2>.
-
 <h2><li><b><a href="https://www.cost.eu/actions/CA23119/">COST Action SENESCENCE 2030</a> Training School, June 23-24 "Senescence from cell cultures to humans through model organisms" co-organised with<a href = "https://research.pasteur.fr/fr/member/han-li/"> Dr. Han Li</a> (Pasteur Institute).</b> Submit your provisional project <a href = "https://forms.gle/4LiWYZNNzJLLoqV59">here</a>.</li></h2>
 
 <img src ="../assets/img/COSTAction/flyer.png" alt = "Summer chool flyer" class = "center">
