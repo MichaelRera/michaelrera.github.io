@@ -12,8 +12,12 @@
   type: time_table
   contents:
     - title: Principal Investigator UTELife (Understanding The End-of-Life)
+      institution: Functional and Adaptive Biology department (Université Paris Cité / CNRS)
+      year: 2026 - 
+      description: hosted in <a href="https://courtier.ijm.fr/https://bfa.u-pariscite.fr/category/bfa/regulation-de-la-glycemie-par-le-systeme-nerveux-central-reglys-fr/">Prof. Christophe Magnan</a>'s team
+    - title: Principal Investigator UTELife (Understanding The End-of-Life)
       institution: Institut Jacques Monod (Université Paris Cité / CNRS)
-      year: 2024 - 
+      year: 2024 - 2025
       description: hosted in <a href="https://courtier.ijm.fr/">Virginie Courtier</a>'s team
     - title: Group leader team UTELife (Understanding The End-of-Life)
       institution: Centre de Recherche Interdisciplinaire (Université Paris Cité / INSERM)
@@ -42,6 +46,9 @@
 - title: Grants
   type: time_table
   contents:
+    - year: 2026 - 2028
+      items: 
+        - Institut des Maths pour la Planète Terre (iMPT)
     - year: 2025 - 2027
       items: 
         - International Emerging Actions (CNRS - INSB)
