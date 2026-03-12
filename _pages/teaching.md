@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 <div class="publications">
+<h2 class="year">2026</h2>
+<h2><li><b>Presenting job of researchers to md/high-schooler binomes through the <a href = "https://planet-vie.ens.fr/apprentis-chercheurs">Apprentis chercheurs </a> program.</b></li></h2>
 <h2 class="year">2025</h2>
 <h2><li><b>Presenting job of researchers to high-schoolers through the <a href = "https://www.cerclefser.org/fr/comptoir-des-sciences/">Comptoir des Sciences </a> program.</b></li></h2>
 <h2><li><b>Presenting job of researchers to high-schoolers through the <a href = "https://www.cerclefser.org/fr/declics/je-participe-chercheur/">Déclics </a> program.</b></li></h2>
