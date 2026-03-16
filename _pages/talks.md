@@ -7,6 +7,9 @@ nav: true
 nav_order: 4
 ---
 <div class="publications">
+<h2 class="year">2026</h2>
+<br>
+<h2><li><b>Invited talk at the 15th “Behind and Beyond the Brain” Symposium organised by the BIAL Foundation <a href="https://www.fundacaobial.com/en-GB/symposia">"Studying ageing as a two-phase process: the biology of dying."</a></b>.</li></h2>
 <h2 class="year">2025</h2>
 <br>
 <h2><li><b>Webinaire for the French Society of Geriatry and Gerontology (SFGG) <a href="https://www.youtube.com/watch?v=kF0Yd4a3ADY">"Un Vieillissement en deux phases : de la mouche à l'être humain." (in french)</a></b>.</li></h2>
