@@ -12,7 +12,8 @@ nav_order: 4
 <h2><li><b>Invited talk at the 15th “Behind and Beyond the Brain” Symposium organised by the BIAL Foundation <a href="https://www.fundacaobial.com/en-GB/symposia">"Studying ageing as a two-phase process: the biology of dying."</a></b>.</li></h2>
 <h2 class="year">2025</h2>
 <br>
-<h2><li><b>Webinaire for the French Society of Geriatry and Gerontology (SFGG) <a href="https://www.youtube.com/watch?v=kF0Yd4a3ADY">"Un Vieillissement en deux phases : de la mouche à l'être humain." (in french)</a></b>.</li></h2>
+<h2><li><b>Webinaire for the French Society of Geriatry and Gerontology (SFGG) <a href="https://www.youtube.com/watch?v=kF0Yd4a3ADY">"Un Vieillissement en deux phases : de la mouche à l'être humain." (in french)</a>
+<h2><li><b>Colloquium"Expanding evolutionary theories of ageing to take into account symbioses and interactions throughout the Web of Life" <a href="https://evol-net.fr/wp-content/uploads/2026/01/Aging3_06_Rera.mp4">"Rethinking ageing as a two-phase process."</a></b>.</li></h2>
 <h2><li><b>Keynote Bateson Symposium <a href="https://sheffield.ac.uk/whatson/current">"Ageing in two phases: from flies to humans."</a></b>.</li></h2>
 <h2><li><b>Short talk <a href="https://droseu.net/">"Assessing ageing in the wild, getting help from Smurfs" at the DrosEU conference in Lisbon.</a></b>.</li></h2>
 <h2><li><b>Invited talk <a href="https://medicine.nus.edu.sg/trp/healthy-longevity/events/global-conference-on-gerophysics/">Global Conference on Gerophysics</a></b></li></h2>
