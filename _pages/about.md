@@ -28,6 +28,8 @@ social: true  # includes social icons at the bottom of the page
 
 <a href="https://luce-breuil.github.io/">Luce Breuil</a>, 2nd year PhD student co-supervised with <a href="https://www.researchgate.net/profile/Sarah-Kaakai">Sarah Kaakai</a> (MCF, UP13) and <a href="https://www.researchgate.net/profile/Marie-Doumic"> Marie Doumic</a> (DR INRIA)<br>
 
+<a href="https://www.linkedin.com/in/melissa-poysat-sansone/?locale=fr">Melissa Poysat-Sansone</a>, PhD candidate co-supervised with <a href="https://www.linkedin.com/in/dafni-hadjieconomou-954ba2220/">Dafni Hadjieconomou</a> (Inserm) and <a href="https://www.researchgate.net/profile/Clement-Carre">Clément Carré</a> (Prof. SU)<br>
+
 <h3> Alumni </h3>
 <a href = "https://www.researchgate.net/profile/Marina-Abakarova">Marina Abakarova</a>, PhD (graduated september 2025), co-supervised with <a href = "http://www.lcqb.upmc.fr/laine/Home.html"> Elodie Laine (Prof., SU) </a><br>
 <a href = "https://www.researchgate.net/profile/Celine-Cansell">Céline Cansell</a>, postdoc<br>
