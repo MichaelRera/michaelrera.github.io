@@ -9,7 +9,7 @@ nav_order: 4
 <div class="publications">
 <h2 class="year">2026</h2>
 <br>
-<h2><li><b>Invited talk Probability meets Biology III <a href="https://www.bath.ac.uk/events/probability-meets-biology-iii/">"Studying ageing as a two-phase process: from flies to humansThe comb of selection. Early exclusion of close-by genotypes under logistic competition"</a></b>.</li></h2>
+<h2><li><b>Invited talk Probability meets Biology III <a href="https://www.bath.ac.uk/events/probability-meets-biology-iii/">"The comb of selection. Early exclusion of close-by genotypes under logistic competition"</a></b>.</li></h2>
 <br>
 <h2><li><b>Invited talk for the launch day of the French Society for the Biology of Ageing (SFBVie) <a href="https://www.linkedin.com/posts/aging-biologyofaging-ageing-share-7471852176458551296-BvIn/">"Studying ageing as a two-phase process: from flies to humans"</a></b>.</li></h2>
 <h2><li><b>Invited talk at the 15th “Behind and Beyond the Brain” Symposium organised by the BIAL Foundation <a href="https://www.fundacaobial.com/en-GB/symposia">"Studying ageing as a two-phase process: the biology of dying."</a></b>.</li></h2>
