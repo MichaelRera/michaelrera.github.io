@@ -7,6 +7,10 @@ nav: true
 nav_order: 5
 ---
 <div class="publications">
+<h2 class="year">2026</h2>
+<br>
+<h2><li><b>5th colloquium "Expanding evolutionary theories of ageing to take into account symbioses and interactions throughout the Web of Life"</a></b> co-organised with <a href = "https://scholar.google.com/citations?user=aAnp-xkAAAAJ&hl=fr"> Dr. Eric Bapteste</a> and <a href = "https://scholar.google.com/citations?user=UVCppEoAAAAJ&hl=fr">Prof. Philippe Lopez</a>. </li></h2>
+<img src ="../assets/img/2026TheoriesOfAgeingColloquium.png" alt = "Program" class = "center">
 <h2 class="year">2025</h2>
 <br>
 <h2><li><b><a href="https://www.insb.cnrs.fr/fr/evenement/expanding-evolutionary-theories-ageing-take-account-symbioses-and-interactions-throughout">"Expanding evolutionary theories of ageing to take into account symbioses and interactions throughout the Web of Life"</a></b> co-organised with <a href = "https://scholar.google.com/citations?user=aAnp-xkAAAAJ&hl=fr"> Dr. Eric Bapteste</a> and <a href = "https://scholar.google.com/citations?user=UVCppEoAAAAJ&hl=fr">Prof. Philippe Lopez</a>. </li></h2>
