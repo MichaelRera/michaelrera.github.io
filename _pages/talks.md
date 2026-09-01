@@ -9,7 +9,7 @@ nav_order: 4
 <div class="publications">
 <h2 class="year">2026</h2>
 <br>
-<h2><li><b>Invited webinar talk by the Center for Healthy Longevity <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7500102015415599104?collapsed=1" height="872" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></b>.</li></h2>
+<h2><li><b>Invited webinar talk by the Center for Healthy Longevity <iframe width="560" height="315" src="https://www.youtube.com/embed/sua4E6TB17c?si=qBpMKQmUkSC6idso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></b>.</li></h2>
 <br>
 <h2><li><b>Invited talk Probability meets Biology III <a href="https://www.bath.ac.uk/events/probability-meets-biology-iii/">"The comb of selection. Early exclusion of close-by genotypes under logistic competition"</a></b>.</li></h2>
 <br>
