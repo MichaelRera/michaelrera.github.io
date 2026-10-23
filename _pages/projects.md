@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Slowly populating this section.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [experimental, theoretical]
 horizontal: false
 ---

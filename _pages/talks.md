@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description: # Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 <div class="publications">
 <h2 class="year">2026</h2>

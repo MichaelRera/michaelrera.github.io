@@ -4,7 +4,7 @@ permalink: /teaching/
 title: outreach
 description: # Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 <div class="publications">
 <h2 class="year">2026</h2>
