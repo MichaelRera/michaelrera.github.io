@@ -16,6 +16,7 @@ nav_order: 2
   <div class="col-sm-9">
     <h3 class="mb-1"><a href="{{ '/tools/proteocast-flybase/' | relative_url }}">ProteoCast for FlyBase</a></h3>
     <p class="mb-1"><i>Browser extension · 2026</i> ·
+      <a href="https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl">Chrome Web Store</a> ·
       <a href="https://github.com/MichaelRera/proteocast-flybase">source code</a></p>
     <p>ProteoCast missense-variant predictions shown directly on FlyBase protein, gene and allele pages:
     per-residue mutational sensitivity, a one-line variant classifier, and the effect of an allele's

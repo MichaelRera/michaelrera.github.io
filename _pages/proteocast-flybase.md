@@ -74,9 +74,10 @@ For a protein that is not in FlyBase, or for any other organism, use the
 
 ProteoCast for FlyBase works in Chrome, Edge, Brave and other Chromium-based browsers.
 
-- **Chrome Web Store:** coming soon.
-- **Test version:** <a href="mailto:michael.rera@cnrs.fr?subject=ProteoCast%20for%20FlyBase">e-mail me</a>
-  and I will send it with installation instructions.
+<p><a class="btn btn-primary" href="https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl" target="_blank" rel="noopener">Add to Chrome — Chrome Web Store</a></p>
+
+- **Chrome Web Store:** [ProteoCast for FlyBase](https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl): one click, updates automatically.
+  Edge and Brave users can install it from the same page (Edge first asks to allow extensions from other stores).
 - **Source code:** [github.com/MichaelRera/proteocast-flybase](https://github.com/MichaelRera/proteocast-flybase)
   (open source, GPL-3.0; bug reports and suggestions welcome as GitHub issues).
 
