@@ -79,7 +79,7 @@ ProteoCast for FlyBase works in Chrome, Edge, Brave and other Chromium-based bro
 - **Chrome Web Store:** [ProteoCast for FlyBase](https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl): one click, updates automatically.
   Edge and Brave users can install it from the same page (Edge first asks to allow extensions from other stores).
 - **Source code:** [github.com/MichaelRera/proteocast-flybase](https://github.com/MichaelRera/proteocast-flybase)
-  (open source, GPL-3.0; bug reports and suggestions welcome as GitHub issues).
+  (open source, GPL-3.0, coded with Claude Code; bug reports and suggestions welcome as GitHub issues).
 
 ## Privacy
 
