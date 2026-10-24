@@ -15,12 +15,16 @@ nav: false
 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
-    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/tools/proteocast-flybase/context-gene-page.jpg' | relative_url }}"
-         alt="The ProteoCast panel at the top of the FlyBase gene report for Naprt" loading="lazy">
+    <video class="img-fluid rounded z-depth-1" autoplay muted loop playsinline controls preload="metadata"
+           poster="{{ '/assets/img/tools/proteocast-flybase/demo-poster.jpg' | relative_url }}"
+           aria-label="Demo of ProteoCast for FlyBase on the Naprt gene and Naprt[E147V] allele pages">
+      <source src="{{ '/assets/video/proteocast-flybase-demo.mp4' | relative_url }}" type="video/mp4">
+    </video>
   </div>
 </div>
 <div class="caption">
-  The ProteoCast panel at the top of a FlyBase gene report (here <i>Naprt</i>).
+  ProteoCast for FlyBase in 20 seconds: the panel on the <i>Naprt</i> gene page, selecting a stretch of the
+  protein, the substitutions at one residue, classifying G202R, and the <i>Naprt</i><sup>E147V</sup> allele page.
 </div>
 
 ## What it shows
