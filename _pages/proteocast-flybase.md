@@ -2,7 +2,7 @@
 layout: page
 title: ProteoCast for FlyBase
 permalink: /tools/proteocast-flybase/
-description: Missense-variant predictions right on FlyBase pages. A browser extension for Chrome and Chromium-based browsers.
+description: Missense-variant predictions right on FlyBase pages. A browser extension for Chrome, Chromium-based browsers and Firefox.
 nav: false
 ---
 
@@ -76,12 +76,13 @@ For a protein that is not in FlyBase, or for any other organism, use the
 
 ## Install
 
-ProteoCast for FlyBase works in Chrome, Edge, Brave and other Chromium-based browsers.
+ProteoCast for FlyBase works in Chrome, Edge, Brave and other Chromium-based browsers, and in Firefox 140 or later.
 
 <p><a class="btn btn-primary" href="https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl" target="_blank" rel="noopener">Add to Chrome — Chrome Web Store</a></p>
 
 - **Chrome Web Store:** [ProteoCast for FlyBase](https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl): one click, updates automatically.
   Edge and Brave users can install it from the same page (Edge first asks to allow extensions from other stores).
+- **Firefox:** version 0.3.1 is under review at Firefox Add-ons; the link will appear here once it is published.
 - **Source code:** [github.com/MichaelRera/proteocast-flybase](https://github.com/MichaelRera/proteocast-flybase)
   (open source, GPL-3.0, coded with Claude Code; bug reports and suggestions welcome as GitHub issues).
 
