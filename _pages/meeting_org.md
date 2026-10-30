@@ -10,7 +10,7 @@ nav_order: 6
 <h2 class="year">2026</h2>
 <br>
 <h2><li><b>5th colloquium "Expanding evolutionary theories of ageing to take into account symbioses and interactions throughout the Web of Life"</a></b> co-organised with <a href = "https://scholar.google.com/citations?user=aAnp-xkAAAAJ&hl=fr"> Dr. Eric Bapteste</a> and <a href = "https://scholar.google.com/citations?user=UVCppEoAAAAJ&hl=fr">Prof. Philippe Lopez</a>. </li></h2>
-<p><b>November 4th 2026, Académie des sciences (salle Bonnefous, 23 quai de Conti, 75006 Paris).</b> Free, hybrid (in person — 40 seats, first come, first served — or online); registration required by email to <a href="mailto:epbapteste@gmail.com">epbapteste@gmail.com</a> before October 25th, stating whether you will attend in person or online.</p>
+<p><b>November 4th 2026, 9:00–18:15, Académie des sciences (salle Bonnefous, 23 quai de Conti, 75006 Paris).</b> Free, hybrid (in person — about 50 seats, reserved for registered attendees — or online); registration required by email to <a href="mailto:epbapteste@gmail.com">epbapteste@gmail.com</a> before October 25th, stating whether you will attend in person or online.</p>
 
 <div class="colloquium-2026">
   <img src="../assets/img/2026TheoriesOfAgeingColloquium_organisers.png" alt="Organisers and sponsors" width="280">
