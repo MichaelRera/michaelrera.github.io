@@ -78,11 +78,12 @@ For a protein that is not in FlyBase, or for any other organism, use the
 
 ProteoCast for FlyBase works in Chrome, Edge, Brave and other Chromium-based browsers, and in Firefox 140 or later.
 
-<p><a class="btn btn-primary" href="https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl" target="_blank" rel="noopener">Add to Chrome — Chrome Web Store</a></p>
+<p><a class="btn btn-primary" href="https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl" target="_blank" rel="noopener">Add to Chrome — Chrome Web Store</a>
+   <a class="btn btn-primary" href="https://addons.mozilla.org/en-US/firefox/addon/proteocast-for-flybase/" target="_blank" rel="noopener">Add to Firefox — Firefox Add-ons</a></p>
 
 - **Chrome Web Store:** [ProteoCast for FlyBase](https://chromewebstore.google.com/detail/proteocast-for-flybase/pdkdmicjkpiamojmcfgbcajcnifccokl): one click, updates automatically.
   Edge and Brave users can install it from the same page (Edge first asks to allow extensions from other stores).
-- **Firefox:** version 0.3.1 is under review at Firefox Add-ons; the link will appear here once it is published.
+- **Firefox Add-ons:** [ProteoCast for FlyBase](https://addons.mozilla.org/en-US/firefox/addon/proteocast-for-flybase/): for Firefox 140 or later, updates automatically.
 - **Source code:** [github.com/MichaelRera/proteocast-flybase](https://github.com/MichaelRera/proteocast-flybase)
   (open source, GPL-3.0, coded with Claude Code; bug reports and suggestions welcome as GitHub issues).
 
