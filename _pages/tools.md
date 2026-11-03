@@ -34,7 +34,7 @@ nav_order: 2
   <div class="col-sm-9">
     <h3 class="mb-1"><a href="{{ '/tools/smurftrsc-flybase/' | relative_url }}">SmurfTrsc for FlyBase</a></h3>
     <p class="mb-1"><i>Browser extension · 2026</i> ·
-      Chrome Web Store coming soon ·
+      <a href="https://chromewebstore.google.com/detail/smurftrsc-for-flybase/edlhmihcnmdcgmaaidgcpgolidinnkjp">Chrome Web Store</a> ·
       <a href="https://github.com/MichaelRera/smurftrsc-flybase">source code</a></p>
     <p>Gene expression in Smurf and non-Smurf flies (Zane et al., 2023) shown directly on FlyBase gene, protein
     and allele pages: all 32 samples by age and Smurf status, the paper's contrasts, and its other results for
