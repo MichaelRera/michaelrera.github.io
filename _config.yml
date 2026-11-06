@@ -149,6 +149,7 @@ kramdown:
 # Includes & excludes
 include: ['_pages']
 exclude:
+  - CLAUDE.md
   - bin
   - Gemfile
   - Gemfile.lock
