@@ -166,8 +166,8 @@ curl -s https://michaelrera.github.io/publications/ | grep -c "<some new string>
 `assets/img/tools/proteocast-flybase/`. Chrome Web Store link added 2026-10-24 (item pdkdmicjkpiamojmcfgbcajcnifccokl).
 Local build works: `BUNDLE_PATH=vendor/bundle bundle exec jekyll serve --destination <outside the repo>`.
 SmurfTrsc for FlyBase added 2026-11-02: `_pages/smurftrsc-flybase.md` (`/tools/smurftrsc-flybase/`), card in `tools.md`,
-images in `assets/img/tools/smurftrsc-flybase/`, video `assets/video/smurftrsc-flybase-demo.mp4`. Says "Chrome Web Store
-coming soon" in both places: replace with the store link once the listing is live.
+images in `assets/img/tools/smurftrsc-flybase/`, video `assets/video/smurftrsc-flybase-demo.mp4`. Links to the Chrome Web Store
+(item edlhmihcnmdcgmaaidgcpgolidinnkjp) and, since 2026-11-10, Firefox Add-ons (`smurftrsc-for-flybase`) in both places.
 
 ## CI: Ruby version pin
 

@@ -2,7 +2,7 @@
 layout: page
 title: SmurfTrsc for FlyBase
 permalink: /tools/smurftrsc-flybase/
-description: Smurf vs non-Smurf gene expression right on FlyBase pages. A browser extension for Chrome and Chromium-based browsers (Firefox version under review).
+description: Smurf vs non-Smurf gene expression right on FlyBase pages. A browser extension for Chrome, Chromium-based browsers and Firefox.
 nav: false
 ---
 
@@ -88,14 +88,14 @@ the two panels sit one above the other.
 
 ## Install
 
-SmurfTrsc for FlyBase works in Chrome, Edge, Brave and other Chromium-based browsers. A Firefox version is under
-review at Firefox Add-ons.
+SmurfTrsc for FlyBase works in Chrome, Edge, Brave and other Chromium-based browsers, and in Firefox 140 or later.
 
-<p><a class="btn btn-primary" href="https://chromewebstore.google.com/detail/smurftrsc-for-flybase/edlhmihcnmdcgmaaidgcpgolidinnkjp" target="_blank" rel="noopener">Add to Chrome — Chrome Web Store</a></p>
+<p><a class="btn btn-primary" href="https://chromewebstore.google.com/detail/smurftrsc-for-flybase/edlhmihcnmdcgmaaidgcpgolidinnkjp" target="_blank" rel="noopener">Add to Chrome — Chrome Web Store</a>
+   <a class="btn btn-primary" href="https://addons.mozilla.org/en-US/firefox/addon/smurftrsc-for-flybase/" target="_blank" rel="noopener">Add to Firefox — Firefox Add-ons</a></p>
 
 - **Chrome Web Store:** [SmurfTrsc for FlyBase](https://chromewebstore.google.com/detail/smurftrsc-for-flybase/edlhmihcnmdcgmaaidgcpgolidinnkjp): one click, updates automatically.
   Edge and Brave users can install it from the same page (Edge first asks to allow extensions from other stores).
-- **Firefox Add-ons:** under review.
+- **Firefox Add-ons:** [SmurfTrsc for FlyBase](https://addons.mozilla.org/en-US/firefox/addon/smurftrsc-for-flybase/): for Firefox 140 or later, updates automatically.
 - **Source code:** [github.com/MichaelRera/smurftrsc-flybase](https://github.com/MichaelRera/smurftrsc-flybase)
   (open source, GPL-3.0, coded with Claude Code; bug reports and suggestions welcome as GitHub issues).
 
